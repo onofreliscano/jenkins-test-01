@@ -1,11 +1,18 @@
 {
-  "name": "test-03",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+	"name": "node-app",
+ 	"description": "hello jenkins test app",
+ 	"version": "0.0.1",
+ 	"private": true,
+ 	"dependencies": {
+        "express": "4.17.1"
+ 	},
+ 	"devDependencies": {
+ 	    "mocha": "6.1.6",
+        "supertest": "9.1.1"
+ 	}
 }
+
+
+
+
+
