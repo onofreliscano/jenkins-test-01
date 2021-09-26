@@ -1,7 +1,7 @@
 {
 	"name": "jenkins-test-01",
 	"description": "testing automation in nativapps",
-	"version": "0.0.21",
+	"version": "0.0.22",
 	"private": true,
 	"dependencies": {
 		"express": "4.17.1"
